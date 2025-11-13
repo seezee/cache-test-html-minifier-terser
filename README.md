@@ -2,14 +2,13 @@
 
 * Contributors: Chris J. Zähller (seezee), Cat (Denperidge)
 * Author URI: <https://github.com/seezee>
-* Version: 1.0.1
+* Version: 1.0.2
 * License: [Kelp Commons License](https://github.com/seezee/cache-test-html-minifier-terser/blob/main/LICENSE)
 * License URI: <https://github.com/seezee/cache-test-html-minifier-terser/blob/main/LICENSE>
-* tags: photography, music, journalism
 
 <div style="text-align: center">
 
-A site dedicated to photography, music, and news. Home of the OKIE-X portrait project. Built with Eleventy.
+Debug conflict between @codestitchofficial/eleventy-plugin-minify & eleventy-auto-cache-buster
 
 <div style="font-weight: 700">
 
