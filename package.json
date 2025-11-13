@@ -1,6 +1,6 @@
 {
   "name": "cache-test-html-minifier-terser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Debug conflict between @codestitchofficial/eleventy-plugin-minify & eleventy-auto-cache-buster",
   "main": "index.js",
   "scripts": {
