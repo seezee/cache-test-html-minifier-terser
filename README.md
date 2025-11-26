@@ -2,50 +2,38 @@
 
 * Contributors: Chris J. Zähller (seezee), Cat (Denperidge)
 * Author URI: <https://github.com/seezee>
-* Version: 1.0.0
-* License: [Kelp Commons License](https://github.com/seezee/mercury.photo/blob/main/LICENSE)
-* License URI: <https://github.com/seezee/mercury.photo/blob/main/LICENSE>
-* tags: photography, music, journalism
-
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/seezee/mercury.photo/CI?label=build)
+* Version: 1.0.2
+* License: [Kelp Commons License](https://github.com/seezee/cache-test-html-minifier-terser/blob/main/LICENSE)
+* License URI: <https://github.com/seezee/cache-test-html-minifier-terser/blob/main/LICENSE>
 
 <div style="text-align: center">
 
-A site dedicated to photography, music, and news. Home of the OKIE-X portrait project. Built with Eleventy.
+Debug conflict between @codestitchofficial/eleventy-plugin-minify & eleventy-auto-cache-buster
 
 <div style="font-weight: 700">
 
-<a href="https://github.com/seezee/mercury.photo/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/seezee/mercury.photo/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/seezee/mercury.photo/issues"> Request Feature </a></div>
+<a href="https://github.com/seezee/cache-test-html-minifier-terser/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/seezee/cache-test-html-minifier-terser/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/seezee/cache-test-html-minifier-terser/issues"> Request Feature </a></div>
 
 </div>
 
 ## :notebook_with_decorative_cover: Table of Contents
 
-- [Cache Test HTML Minifier Terser Test](#cache-test-html-minifier-terser-test)
-  - [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
-    - [:bulb: About the Project](#bulb-about-the-project)
-      - [Brand Mark](#brand-mark)
-    - [:pencil: License](#pencil-license)
-    - [:mailbox\_with\_mail: Contact](#mailbox_with_mail-contact)
+* Cache Test HTML Minifier Terser Test
+  * :notebook\_with\_decorative\_cover: Table of Contents
+    * :bulb: About the Project
+    * :pencil: License
+    * :mailbox\_with\_mail: Contact
 
 ### :bulb: About the Project
 
-A site dedicated to photography, music, and news. Home of the OKIE-X portrait project.
-
-#### Brand Mark
-
-The brand mark is set in Funkydori Bold by Laura Worthington Type.
+Debug conflict between @codestitchofficial/eleventy-plugin-minify & eleventy-auto-cache-buster.
 
 ### :pencil: License
 
-Code distributed under the [Kelp Commons License](https://github.com/seezee/mercury.photo/blob/main/LICENSE).
-
-Content copyright ©2012&NoBreak;&hairsp;&NoBreak;–&NoBreak;&hairsp;&NoBreak;2025 Chris J. Zähller; all rights reserved.
+Code distributed under the [Kelp Commons License](https://github.com/seezee/cache-test-html-minifier-terser/blob/main/LICENSE).
 
 ### :mailbox_with_mail: Contact
 
 Chris J Zähller — [@chris.zahller.me](https://bsky.app/profile/chris.zahller.me) — <chris@messengerwebdesign.com>
 
-Project link: [https://github.com/seezee/mercury.photo](https://github.com/seezee/mercury.photo)
-
-Website: [Mercury Photo Bureau](https://mercury.photo)
+Project link: [https://github.com/seezee/cache-test-html-minifier-terser](https://github.com/seezee/cache-test-html-minifier-terser)
