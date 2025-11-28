@@ -8,7 +8,7 @@
 
 <div style="text-align: center">
 
-Debug conflict between @codestitchofficial/eleventy-plugin-minify & eleventy-auto-cache-buster
+Debug conflict between `html-minifier-terser` & `eleventy-auto-cache-buster`
 
 <div style="font-weight: 700">
 
@@ -26,7 +26,7 @@ Debug conflict between @codestitchofficial/eleventy-plugin-minify & eleventy-aut
 
 ### :bulb: About the Project
 
-Debug conflict between @codestitchofficial/eleventy-plugin-minify & eleventy-auto-cache-buster.
+Debug conflict between html-minifier-terser & eleventy-auto-cache-buster.
 
 ### :pencil: License
 
